@@ -20,7 +20,7 @@ const Hero = () => {
           </p>
           <Link
             href={"/create-document"}
-            className="mt-6 w-fit flex items-center rounded bg-blue-600 px-3 py-2 text-sm font-medium uppercase text-white hover:bg-blue-500 focus:bg-blue-500 focus:outline-none"
+            className="mt-6 flex w-fit items-center rounded bg-blue-600 px-3 py-2 text-sm font-medium uppercase text-white hover:bg-blue-500 focus:bg-blue-500 focus:outline-none"
           >
             Get started <ArrowRight size={16} className="ml-2" />
           </Link>

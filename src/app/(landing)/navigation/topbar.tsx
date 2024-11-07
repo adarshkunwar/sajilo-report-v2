@@ -68,7 +68,7 @@ const Topbar = () => {
                 text="Get Started"
                 variant="link"
                 link=""
-                className="text-white bg-blue-600 hover:bg-blue-800 rounded px-4 py-2 font-semibold focus:outline-none"
+                className="rounded bg-blue-600 px-4 py-2 font-semibold text-white hover:bg-blue-800 focus:outline-none"
               />
             </div>
           </div>
@@ -119,7 +119,7 @@ const Topbar = () => {
                 text="Get Started"
                 variant="link"
                 link=""
-                className="text-white bg-blue-600 hover:bg-blue-800 rounded px-4 py-2 font-semibold focus:outline-none"
+                className="rounded bg-blue-600 px-4 py-2 font-semibold text-white hover:bg-blue-800 focus:outline-none"
               />
             </div>
           </div>
